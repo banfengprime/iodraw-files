@@ -139,7 +139,7 @@
         <mxCell id="k-jZIWfJR2WG_ZiLmBpt-86" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;……&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="827" y="187.5" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="k-jZIWfJR2WG_ZiLmBpt-97" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Client i&lt;/font&gt;" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="k-jZIWfJR2WG_ZiLmBpt-97" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 20px;&quot;&gt;Client&amp;nbsp;&lt;/font&gt;" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1290" y="200" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="k-jZIWfJR2WG_ZiLmBpt-98" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Cambria Math&quot;&gt;W&lt;sub&gt;0&lt;/sub&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
