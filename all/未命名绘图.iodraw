@@ -82,8 +82,8 @@
         <mxCell id="k-jZIWfJR2WG_ZiLmBpt-66" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;=Σ(&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="740" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="k-jZIWfJR2WG_ZiLmBpt-67" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="235" y="678" width="50" height="30" as="geometry" />
+        <mxCell id="k-jZIWfJR2WG_ZiLmBpt-68" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="740" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
