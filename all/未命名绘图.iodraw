@@ -79,7 +79,7 @@
         <mxCell id="k-jZIWfJR2WG_ZiLmBpt-64" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="806" y="450" width="110" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="k-jZIWfJR2WG_ZiLmBpt-66" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="k-jZIWfJR2WG_ZiLmBpt-66" value="=" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
