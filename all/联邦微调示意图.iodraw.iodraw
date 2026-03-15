@@ -166,8 +166,8 @@
         <mxCell id="LxasJeaBGucIweQwCF-k-1" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.terminal;" vertex="1" parent="1">
           <mxGeometry x="55" y="540" width="112.5" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="LxasJeaBGucIweQwCF-k-2" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.terminal;" vertex="1" parent="1">
-          <mxGeometry x="710" y="380" width="80" height="65" as="geometry" />
+        <mxCell id="LxasJeaBGucIweQwCF-k-3" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.terminal;" vertex="1" parent="1">
+          <mxGeometry x="440" y="550" width="112.5" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
