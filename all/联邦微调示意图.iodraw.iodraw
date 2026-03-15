@@ -167,7 +167,7 @@
           <mxGeometry x="910" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LxasJeaBGucIweQwCF-k-23" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;ΔW&lt;/font&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;sub&gt;1&lt;/sub&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bee1bc;strokeColor=#82b366;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="200.5" y="665" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="777.5" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
