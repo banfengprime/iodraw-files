@@ -161,10 +161,10 @@
           <mxGeometry x="260" y="385" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LxasJeaBGucIweQwCF-k-17" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;ΔW&lt;/font&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;1&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bee1bc;strokeColor=#82b366;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="640" y="782.5" width="100" height="60" as="geometry" />
+          <mxGeometry x="640" y="782.5" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LxasJeaBGucIweQwCF-k-18" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;ΔW&lt;/font&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;sub&gt;2&lt;/sub&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f4d7b8;strokeColor=#d79b00;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="790" y="782.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="790" y="782.5" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LxasJeaBGucIweQwCF-k-19" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;ΔW&lt;sub&gt;N&lt;/sub&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f4c0be;strokeColor=#b85450;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="946" y="782.5" width="120" height="60" as="geometry" />
