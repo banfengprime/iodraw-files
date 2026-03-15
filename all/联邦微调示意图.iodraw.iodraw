@@ -67,13 +67,13 @@
             <mxPoint x="185" y="485" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k-jZIWfJR2WG_ZiLmBpt-72" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontFamily=Times New Roman;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" edge="1">
+        <mxCell id="k-jZIWfJR2WG_ZiLmBpt-72" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontFamily=Times New Roman;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="330" as="sourcePoint" />
             <mxPoint x="560" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k-jZIWfJR2WG_ZiLmBpt-73" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontFamily=Times New Roman;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" edge="1">
+        <mxCell id="k-jZIWfJR2WG_ZiLmBpt-73" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontFamily=Times New Roman;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1044" y="330" as="sourcePoint" />
             <mxPoint x="1044" y="490" as="targetPoint" />
@@ -85,7 +85,7 @@
             <mxPoint x="240.29" y="327.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k-jZIWfJR2WG_ZiLmBpt-82" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontFamily=Times New Roman;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" edge="1">
+        <mxCell id="k-jZIWfJR2WG_ZiLmBpt-82" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontFamily=Times New Roman;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="610" y="491.25" as="sourcePoint" />
             <mxPoint x="610.29" y="328.75" as="targetPoint" />
