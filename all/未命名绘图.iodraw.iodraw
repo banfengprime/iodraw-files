@@ -148,8 +148,14 @@
         <mxCell id="NP8atdQKnWzVzLr5OI2G-93" value="&lt;b style=&quot;font-size: 30px;&quot;&gt;updated&amp;nbsp;α&lt;/b&gt;&lt;b style=&quot;font-size: 25px;&quot;&gt;&lt;sub&gt;3&lt;/sub&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="827" y="1390" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="NP8atdQKnWzVzLr5OI2G-95" value="&lt;b&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;Sim(Θ&lt;sub&gt;i，&amp;nbsp;&lt;/sub&gt;&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;Θ&lt;/span&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;sub&gt;global)&lt;/sub&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1405" y="1060" width="260" height="50" as="geometry" />
+        <mxCell id="NP8atdQKnWzVzLr5OI2G-95" value="&lt;b&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;Sim(Θ&lt;sub&gt;i，&amp;nbsp;&lt;/sub&gt;&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;Θ&lt;/span&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;sub&gt;global&lt;/sub&gt;)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1405" y="1020" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NP8atdQKnWzVzLr5OI2G-96" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="920" as="sourcePoint" />
+            <mxPoint x="850" y="870" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
