@@ -247,6 +247,15 @@
         <mxCell id="NP8atdQKnWzVzLr5OI2G-182" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;2&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="749.8600000000001" y="1120" width="30" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="NP8atdQKnWzVzLr5OI2G-183" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;Θ&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="954.0000000000001" y="1510" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NP8atdQKnWzVzLr5OI2G-184" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;t-1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="979.7100000000002" y="1500" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NP8atdQKnWzVzLr5OI2G-185" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;3&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="986.8600000000001" y="1520" width="30" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
