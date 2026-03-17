@@ -108,8 +108,8 @@
         <mxCell id="NP8atdQKnWzVzLr5OI2G-77" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Cosine Similarity :&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1390" y="945" width="290" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="NP8atdQKnWzVzLr5OI2G-78" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;Client 1 uploads Θ&lt;sub&gt;1&lt;/sub&gt;&lt;sup&gt;t-1&lt;/sup&gt;&amp;nbsp;Matrix&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="685.5" y="795" width="440" height="60" as="geometry" />
+        <mxCell id="NP8atdQKnWzVzLr5OI2G-78" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;Client 1 uploads &amp;nbsp;Matrix&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="720.5" y="800" width="370" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NP8atdQKnWzVzLr5OI2G-79" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;Client 2 uploads&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;Θ&lt;/span&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;sub&gt;2&lt;/sub&gt;&lt;sup&gt;t-1&lt;/sup&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;&amp;nbsp;Matrix&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="705" y="1065" width="260" height="100" as="geometry" />
