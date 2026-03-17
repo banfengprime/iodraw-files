@@ -105,6 +105,9 @@
         <mxCell id="NP8atdQKnWzVzLr5OI2G-76" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;Client N&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="590.5" y="1525" width="140" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="NP8atdQKnWzVzLr5OI2G-77" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Cosine Similarity&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1395" y="538" width="250" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
