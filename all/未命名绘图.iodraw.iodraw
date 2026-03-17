@@ -200,7 +200,7 @@
           <mxGeometry x="1560" y="933" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NP8atdQKnWzVzLr5OI2G-172" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;t&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1597" y="923" width="30" height="40" as="geometry" />
+          <mxGeometry x="1587" y="925" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NP8atdQKnWzVzLr5OI2G-173" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;global&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1587" y="943" width="80" height="40" as="geometry" />
@@ -208,8 +208,8 @@
         <mxCell id="NP8atdQKnWzVzLr5OI2G-174" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;Θ&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1479.9999999999995" y="934.5" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="NP8atdQKnWzVzLr5OI2G-175" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;t-1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1505.8499999999995" y="926.5" width="50" height="40" as="geometry" />
+        <mxCell id="NP8atdQKnWzVzLr5OI2G-175" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;t&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1515.8499999999995" y="926.5" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NP8atdQKnWzVzLr5OI2G-176" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;i&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1515.8499999999995" y="949.5" width="30" height="40" as="geometry" />
