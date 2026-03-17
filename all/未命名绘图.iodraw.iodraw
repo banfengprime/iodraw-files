@@ -151,12 +151,6 @@
         <mxCell id="NP8atdQKnWzVzLr5OI2G-95" value="&lt;b&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;Sim(Θ&lt;sub&gt;i，&amp;nbsp;&lt;/sub&gt;&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;Θ&lt;/span&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;sub&gt;global&lt;/sub&gt;)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1405" y="1020" width="260" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="NP8atdQKnWzVzLr5OI2G-97" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.567;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;width=23.076923076923077;endSize=13.338461538461537;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1534.35" y="1082.5" as="sourcePoint" />
-            <mxPoint x="1534.23" y="1282.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="NP8atdQKnWzVzLr5OI2G-98" value="&lt;font style=&quot;&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;Local Scaling&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;α&lt;/span&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;sub&gt;i&lt;/sub&gt;&lt;sup&gt;t&lt;/sup&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1405" y="1340" width="260" height="50" as="geometry" />
         </mxCell>
