@@ -114,8 +114,8 @@
         <mxCell id="NP8atdQKnWzVzLr5OI2G-79" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;Client 2 uploads&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;&amp;nbsp;Matrix&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="705" y="1070" width="260" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="NP8atdQKnWzVzLr5OI2G-80" value="&lt;b&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;Client N uploads&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;&amp;nbsp;Matrix&amp;nbsp;&lt;/span&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="705.5" y="1510" width="410" height="50" as="geometry" />
+        <mxCell id="NP8atdQKnWzVzLr5OI2G-80" value="&lt;b&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;Client N uploads&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;&amp;nbsp; &amp;nbsp;Matrix&amp;nbsp;&lt;/span&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="710.5" y="1510" width="420" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NP8atdQKnWzVzLr5OI2G-81" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
