@@ -145,9 +145,6 @@
         <mxCell id="NP8atdQKnWzVzLr5OI2G-101" value="&lt;font style=&quot;&quot; color=&quot;#1942a4&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 40px;&quot;&gt;Adaptive Scaling&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1390" y="796" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NP8atdQKnWzVzLr5OI2G-108" value="&lt;div style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: 22px; overflow: auto; text-wrap-mode: wrap; word-break: break-all; padding: 16px; color: rgb(15, 17, 21); text-align: start; margin: 0px !important;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="2010" y="808" width="60" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="NP8atdQKnWzVzLr5OI2G-111" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1510" y="1054" width="70" height="160" as="geometry" />
         </mxCell>
