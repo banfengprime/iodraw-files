@@ -106,7 +106,7 @@
           <mxGeometry x="590.5" y="1525" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NP8atdQKnWzVzLr5OI2G-77" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Cosine Similarity&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="945" width="250" height="50" as="geometry" />
+          <mxGeometry x="1410" y="945" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NP8atdQKnWzVzLr5OI2G-78" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Client 1 uploads Θ&lt;sub&gt;1&lt;/sub&gt; Matrix&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="715.5" y="800" width="380" height="50" as="geometry" />
@@ -116,6 +116,12 @@
         </mxCell>
         <mxCell id="NP8atdQKnWzVzLr5OI2G-80" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;Client N uploads Θ&lt;/span&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;sub&gt;3&lt;/sub&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;&amp;nbsp;Matrix&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="715.5" y="1510" width="390" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NP8atdQKnWzVzLr5OI2G-81" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="1169.23" as="sourcePoint" />
+            <mxPoint x="980" y="1169" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
