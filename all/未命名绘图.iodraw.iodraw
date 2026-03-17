@@ -157,8 +157,8 @@
             <mxPoint x="1534.23" y="1282.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NP8atdQKnWzVzLr5OI2G-98" value="Local Scaling&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1820" y="1218" width="100" height="30" as="geometry" />
+        <mxCell id="NP8atdQKnWzVzLr5OI2G-98" value="&lt;font style=&quot;&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;Local Scaling&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;α&lt;/span&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;sub&gt;i&lt;/sub&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1405" y="1340" width="260" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
