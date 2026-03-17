@@ -145,8 +145,8 @@
         <mxCell id="NP8atdQKnWzVzLr5OI2G-90" value="&lt;b style=&quot;font-size: 30px;&quot;&gt;updated&amp;nbsp;α&lt;/b&gt;&lt;b style=&quot;font-size: 25px;&quot;&gt;&lt;sub&gt;2&lt;/sub&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="745" y="1200" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="NP8atdQKnWzVzLr5OI2G-93" value="&lt;b style=&quot;font-size: 30px;&quot;&gt;updated&amp;nbsp;α&lt;sub&gt;i&lt;/sub&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="840" y="1380" width="170" height="50" as="geometry" />
+        <mxCell id="NP8atdQKnWzVzLr5OI2G-93" value="&lt;b style=&quot;font-size: 30px;&quot;&gt;updated&amp;nbsp;α&lt;/b&gt;&lt;b style=&quot;font-size: 25px;&quot;&gt;&lt;sub&gt;3&lt;/sub&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="835" y="1380" width="180" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
