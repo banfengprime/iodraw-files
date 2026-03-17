@@ -4,19 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NP8atdQKnWzVzLr5OI2G-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NP8atdQKnWzVzLr5OI2G-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="120" y="1160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="NP8atdQKnWzVzLr5OI2G-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b5c8e3;strokeColor=#6c8ebf;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="150" y="800" width="390" height="720" as="geometry" />
+          <mxGeometry x="130" y="800" width="410" height="720" as="geometry" />
         </mxCell>
         <mxCell id="NP8atdQKnWzVzLr5OI2G-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="319.5" y="940" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="NP8atdQKnWzVzLr5OI2G-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7199d0;strokeColor=#6c8ebf;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="159.5" y="940" width="120" height="200" as="geometry" />
+          <mxGeometry x="159.5" y="940" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="NP8atdQKnWzVzLr5OI2G-25" value="" style="verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.secured;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="194.5" y="975" width="50" height="70" as="geometry" />
