@@ -61,12 +61,18 @@
           <mxGeometry x="580.82" y="1420" width="144.07" height="100" as="geometry" />
         </mxCell>
         <mxCell id="NP8atdQKnWzVzLr5OI2G-49" value="" style="image;html=1;image=img/lib/clip_art/computers/Network_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="1000" y="1150" width="130" height="95" as="geometry" />
+          <mxGeometry x="990" y="1135" width="130" height="95" as="geometry" />
         </mxCell>
         <mxCell id="NP8atdQKnWzVzLr5OI2G-59" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="710" y="1149.92" as="sourcePoint" />
             <mxPoint x="970" y="1150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NP8atdQKnWzVzLr5OI2G-60" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="1159.92" as="sourcePoint" />
+            <mxPoint x="980" y="1160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
