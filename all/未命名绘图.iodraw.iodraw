@@ -49,8 +49,8 @@
         <mxCell id="NP8atdQKnWzVzLr5OI2G-35" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;Matrix B&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="359" y="820" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="NP8atdQKnWzVzLr5OI2G-36" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Round t: Trainable Matrix Θ = B&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="700" y="1048" width="440" height="50" as="geometry" />
+        <mxCell id="NP8atdQKnWzVzLr5OI2G-36" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Round t: Trainable&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Matrix Θ = B&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1090" width="280" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
