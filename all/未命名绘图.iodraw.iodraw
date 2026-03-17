@@ -277,7 +277,7 @@
         <mxCell id="NP8atdQKnWzVzLr5OI2G-211" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;i&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1511" y="946" width="30" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NP8atdQKnWzVzLr5OI2G-212" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;Alternating training&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="NP8atdQKnWzVzLr5OI2G-212" value="&lt;font color=&quot;#1942a4&quot; style=&quot;font-size: 40px;&quot;&gt;Alternating training&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1960" y="963" width="360" height="60" as="geometry" />
         </mxCell>
       </root>
